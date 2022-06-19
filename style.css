@@ -5,7 +5,7 @@ import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
     box-sizing: border-box;
 }
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     height: 100vh;
     background-color: #f9f9f9;
     font-size: 22px;
@@ -39,7 +39,7 @@ input{
     outline: none;
     text-align: center;
     border-bottom: 1px solid #334944;
-    color: #334944;
+    color: #202927;
     font-size: 28px;
     margin-top: 20px;
 }
@@ -66,7 +66,7 @@ button#calculate{
 }
 button#calculate:hover{
     color: #334944;
-    border-color: #334944;
+    border-color: #202927;
     background: white;
 }
 .totalTip{
@@ -76,6 +76,6 @@ button#calculate:hover{
 }
 p.tip{
     font-size: 38px;
-    color: #334944;
+    color: #202927;
     margin-top: 10px;
 }
